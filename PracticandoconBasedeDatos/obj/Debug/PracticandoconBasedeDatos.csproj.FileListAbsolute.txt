@@ -29,7 +29,6 @@ C:\Users\adria\Desktop\PracticandoconBasedeDatos\PracticandoconBasedeDatos\bin\r
 C:\Users\adria\Desktop\PracticandoconBasedeDatos\PracticandoconBasedeDatos\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\adria\Desktop\PracticandoconBasedeDatos\PracticandoconBasedeDatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\adria\Desktop\PracticandoconBasedeDatos\PracticandoconBasedeDatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\adria\Desktop\PracticandoconBasedeDatos\PracticandoconBasedeDatos\obj\Debug\PracticandoconBasedeDatos.csprojAssemblyReference.cache
 C:\Users\adria\Desktop\PracticandoconBasedeDatos\PracticandoconBasedeDatos\obj\Debug\PracticandoconBasedeDatos.csproj.CoreCompileInputs.cache
 C:\Users\adria\Desktop\PracticandoconBasedeDatos\PracticandoconBasedeDatos\obj\Debug\PracticandoconBasedeDatos.csproj.CopyComplete
 C:\Users\adria\Desktop\PracticandoconBasedeDatos\PracticandoconBasedeDatos\obj\Debug\PracticandoconBasedeDatos.dll
